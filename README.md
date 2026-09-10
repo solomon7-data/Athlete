@@ -9,7 +9,7 @@ This data comes from olympedia.org and was web scraped with the Python Beautiful
 
 phase one data cleaning
 phase two missing value analysis
-cleaned_athlet contains the raw biographical information on each athlete which is cleaned for further data anlysis in phase one project
+cleaned_athlete contains the raw biographical information on each athlete which is cleaned for further data anlysis in phase one project
 
 Clean Data
-Easier to analyze data can be found in ziped cleaned_athlet.
+Easier to analyze data can be found in ziped cleaned_athlete.
